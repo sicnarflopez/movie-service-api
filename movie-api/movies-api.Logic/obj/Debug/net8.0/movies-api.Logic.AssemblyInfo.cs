@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("movies-api.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50e8d9753facb6ebaae76e1b70e50f18fd8fb03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a38408b8e07993d6fbfbb993ba467b5e70384f")]
 [assembly: System.Reflection.AssemblyProductAttribute("movies-api.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("movies-api.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

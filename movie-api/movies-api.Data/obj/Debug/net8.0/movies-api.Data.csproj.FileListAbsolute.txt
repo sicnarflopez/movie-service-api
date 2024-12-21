@@ -1,0 +1,15 @@
+D:\Projects\movie-service-api\movie-api\movies-api.Data\bin\Debug\net8.0\movies-api.Data.deps.json
+D:\Projects\movie-service-api\movie-api\movies-api.Data\bin\Debug\net8.0\movies-api.Data.runtimeconfig.json
+D:\Projects\movie-service-api\movie-api\movies-api.Data\bin\Debug\net8.0\movies-api.Data.dll
+D:\Projects\movie-service-api\movie-api\movies-api.Data\bin\Debug\net8.0\movies-api.Data.pdb
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.csproj.AssemblyReference.cache
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.AssemblyInfoInputs.cache
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.AssemblyInfo.cs
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.csproj.CoreCompileInputs.cache
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.sourcelink.json
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.dll
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\refint\movies-api.Data.dll
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.pdb
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\movies-api.Data.genruntimeconfig.cache
+D:\Projects\movie-service-api\movie-api\movies-api.Data\obj\Debug\net8.0\ref\movies-api.Data.dll

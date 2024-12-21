@@ -7,5 +7,10 @@ namespace movie_api.Controllers
     [ApiController]
     public class MoviesController : ControllerBase
     {
+        [HttpGet]
+        public async Task<IActionResult> GetMovies(string title)
+        {
+            return Ok();
+        }
     }
 }
