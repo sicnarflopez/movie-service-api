@@ -38,7 +38,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMyApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200")
+        policy.WithOrigins("http://localhost:4200", "https://purple-mushroom-07f0ac200.4.azurestaticapps.net")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -48,12 +48,8 @@ var app = builder.Build();
 
 app.UseCors("AllowMyApp");
 
-// Configure the HTTP request pipeline.
-//if (app.Environment.IsDevelopment())
-//{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-//}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 using (var scope = app.Services.CreateScope())
 {
