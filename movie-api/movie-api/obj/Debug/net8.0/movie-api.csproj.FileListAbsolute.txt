@@ -171,3 +171,4 @@ D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\refint\movie-
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\movie-api.pdb
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\movie-api.genruntimeconfig.cache
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\ref\movie-api.dll
+D:\Projects\movie-service-api\movie-api\movie-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

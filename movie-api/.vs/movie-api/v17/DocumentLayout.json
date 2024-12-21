@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\movie-service-api\\movie-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A9EDB1B-E94A-4352-8012-84539A17FA7B}|movies-api.Logic\\movies-api.Logic.csproj|d:\\projects\\movie-service-api\\movie-api\\movies-api.logic\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9EDB1B-E94A-4352-8012-84539A17FA7B}|movies-api.Logic\\movies-api.Logic.csproj|solutionrelative:movies-api.logic\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|d:\\projects\\movie-service-api\\movie-api\\movies-api.data\\context\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|solutionrelative:movies-api.data\\context\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|d:\\projects\\movie-service-api\\movie-api\\movies-api.data\\context\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|solutionrelative:movies-api.data\\context\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\movie-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\movie-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9EDB1B-E94A-4352-8012-84539A17FA7B}|movies-api.Logic\\movies-api.Logic.csproj|d:\\projects\\movie-service-api\\movie-api\\movies-api.logic\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9EDB1B-E94A-4352-8012-84539A17FA7B}|movies-api.Logic\\movies-api.Logic.csproj|solutionrelative:movies-api.logic\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\authentication\\authconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|solutionrelative:movies-api.data\\context\\imoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|d:\\projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0464892F-0024-4D33-8DEB-41BAF7112558}|movie-api\\movie-api.csproj|solutionrelative:movie-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|d:\\projects\\movie-service-api\\movie-api\\movies-api.data\\context\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F47A75EA-E861-405E-B26B-B0C14AB14887}|movies-api.Data\\movies-api.Data.csproj|solutionrelative:movies-api.data\\context\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -58,50 +62,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "movies-api.Logic\\Interfaces\\IMovieService.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "movies-api.Logic\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:04:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "movies-api.Data\\Entities\\Movie.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Entities\\Movie.cs",
+              "RelativeToolTip": "movies-api.Data\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:45:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "movies-api.Logic\\Services\\MovieService.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Services\\MovieService.cs",
+              "RelativeToolTip": "movies-api.Logic\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:03:53.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "movie-api\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "movie-api\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:33:09.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Program.cs",
+              "RelativeDocumentMoniker": "movie-api\\Program.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Program.cs",
+              "RelativeToolTip": "movie-api\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:52:33.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json",
+              "RelativeDocumentMoniker": "movie-api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json",
+              "RelativeToolTip": "movie-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T09:51:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "movie-api\\appsettings.Development.json",
               "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.Development.json",
               "RelativeToolTip": "movie-api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-21T12:27:49.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DbContextInitializer.cs",
               "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Context\\DbContextInitializer.cs",
               "RelativeDocumentMoniker": "movies-api.Data\\Context\\DbContextInitializer.cs",
               "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Context\\DbContextInitializer.cs",
               "RelativeToolTip": "movies-api.Data\\Context\\DbContextInitializer.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wDIAAADLAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwBoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T11:16:40.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthConstants.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Authentication\\AuthConstants.cs",
-              "RelativeDocumentMoniker": "movie-api\\Authentication\\AuthConstants.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Authentication\\AuthConstants.cs",
-              "RelativeToolTip": "movie-api\\Authentication\\AuthConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:58:06.304Z",
+              "DocumentIndex": 4,
+              "Title": "movie-api",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\movie-api.csproj",
+              "RelativeDocumentMoniker": "movie-api\\movie-api.csproj",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\movie-api.csproj",
+              "RelativeToolTip": "movie-api\\movie-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T14:44:57.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ApiKeyAuthMiddleware.cs",
               "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Authentication\\ApiKeyAuthMiddleware.cs",
               "RelativeDocumentMoniker": "movie-api\\Authentication\\ApiKeyAuthMiddleware.cs",
@@ -115,71 +197,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "movies-api.Logic\\Interfaces\\IMovieService.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "movies-api.Logic\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Title": "AuthConstants.cs",
+              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Authentication\\AuthConstants.cs",
+              "RelativeDocumentMoniker": "movie-api\\Authentication\\AuthConstants.cs",
+              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Authentication\\AuthConstants.cs",
+              "RelativeToolTip": "movie-api\\Authentication\\AuthConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:04:10.147Z",
+              "WhenOpened": "2024-12-21T10:58:06.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "movies-api.Data\\Entities\\Movie.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Entities\\Movie.cs",
-              "RelativeToolTip": "movies-api.Data\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:45:32.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "movies-api.Logic\\Services\\MovieService.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\Services\\MovieService.cs",
-              "RelativeToolTip": "movies-api.Logic\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:03:53.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "movie-api\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "movie-api\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:33:09.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Program.cs",
-              "RelativeDocumentMoniker": "movie-api\\Program.cs",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\Program.cs",
-              "RelativeToolTip": "movie-api\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:52:33.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MovieDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Context\\MovieDbContext.cs",
               "RelativeDocumentMoniker": "movies-api.Data\\Context\\MovieDbContext.cs",
@@ -192,20 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json",
-              "RelativeDocumentMoniker": "movie-api\\appsettings.json",
-              "ToolTip": "D:\\Projects\\movie-service-api\\movie-api\\movie-api\\appsettings.json",
-              "RelativeToolTip": "movie-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-21T09:51:56.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IMovieDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\Context\\IMovieDbContext.cs",
               "RelativeDocumentMoniker": "movies-api.Data\\Context\\IMovieDbContext.cs",

@@ -8,14 +8,23 @@ using movies_api.Logic.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<MovieDbContext>(options =>
+
+if (builder.Configuration.GetValue<bool>("UseInMemoryDatabase"))
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), options =>
+    builder.Services.AddDbContext<MovieDbContext>(options =>
+        options.UseInMemoryDatabase("MovieDb"));
+}
+else
+{
+    builder.Services.AddDbContext<MovieDbContext>(options =>
     {
-        options.MigrationsAssembly("movies-api.Data");
-        options.EnableRetryOnFailure();
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), options =>
+        {
+            options.MigrationsAssembly("movies-api.Data");
+            options.EnableRetryOnFailure();
+        });
     });
-});
+}
 
 builder.Services.AddScoped<IMovieDbContext>(provider => provider.GetRequiredService<MovieDbContext>());
 builder.Services.AddScoped<DbContextInitializer>();
@@ -40,18 +49,21 @@ var app = builder.Build();
 app.UseCors("AllowMyApp");
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 using (var scope = app.Services.CreateScope())
 {
     var initialiser = scope.ServiceProvider.GetRequiredService<DbContextInitializer>();
 
-    //Initialize database
-    await initialiser.InitialiseAsync();
+    if (!builder.Configuration.GetValue<bool>("UseInMemoryDatabase"))
+    {
+        //Initialize database
+        await initialiser.InitialiseAsync();
+    }
 
     //Seed database
     await initialiser.SeedDefaultDataAsync();
