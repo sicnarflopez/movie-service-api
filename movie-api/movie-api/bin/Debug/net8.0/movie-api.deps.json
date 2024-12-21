@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "movies-api.Data": "1.0.0"
+          "movies-api.Data": "1.0.0",
+          "movies-api.Logic": "1.0.0"
         },
         "runtime": {
           "movie-api.dll": {}
@@ -1091,6 +1092,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "movies-api.Logic/1.0.0": {
+        "dependencies": {
+          "movies-api.Data": "1.0.0"
+        },
+        "runtime": {
+          "movies-api.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1689,6 +1701,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "movies-api.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movies-api.Logic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

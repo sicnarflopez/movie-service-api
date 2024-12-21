@@ -10,3 +10,7 @@ D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\movies
 D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\refint\movies-api.Logic.dll
 D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\movies-api.Logic.pdb
 D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\ref\movies-api.Logic.dll
+D:\Projects\movie-service-api\movie-api\movies-api.Logic\bin\Debug\net8.0\movies-api.Data.dll
+D:\Projects\movie-service-api\movie-api\movies-api.Logic\bin\Debug\net8.0\movies-api.Data.pdb
+D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\movies-api.Logic.csproj.AssemblyReference.cache
+D:\Projects\movie-service-api\movie-api\movies-api.Logic\obj\Debug\net8.0\movies-a.38751E17.Up2Date

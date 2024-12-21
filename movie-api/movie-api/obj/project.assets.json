@@ -1703,6 +1703,19 @@
         "runtime": {
           "bin/placeholder/movies-api.Data.dll": {}
         }
+      },
+      "movies-api.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "movies-api.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/movies-api.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/movies-api.Logic.dll": {}
+        }
       }
     },
     "net8.0/win-x64": {
@@ -3346,6 +3359,19 @@
         },
         "runtime": {
           "bin/placeholder/movies-api.Data.dll": {}
+        }
+      },
+      "movies-api.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "movies-api.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/movies-api.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/movies-api.Logic.dll": {}
         }
       }
     }
@@ -6839,13 +6865,19 @@
       "type": "project",
       "path": "../movies-api.Data/movies-api.Data.csproj",
       "msbuildProject": "../movies-api.Data/movies-api.Data.csproj"
+    },
+    "movies-api.Logic/1.0.0": {
+      "type": "project",
+      "path": "../movies-api.Logic/movies-api.Logic.csproj",
+      "msbuildProject": "../movies-api.Logic/movies-api.Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "movies-api.Data >= 1.0.0"
+      "movies-api.Data >= 1.0.0",
+      "movies-api.Logic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6883,6 +6915,9 @@
           "projectReferences": {
             "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\movies-api.Data.csproj": {
               "projectPath": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Data\\movies-api.Data.csproj"
+            },
+            "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\movies-api.Logic.csproj": {
+              "projectPath": "D:\\Projects\\movie-service-api\\movie-api\\movies-api.Logic\\movies-api.Logic.csproj"
             }
           }
         }

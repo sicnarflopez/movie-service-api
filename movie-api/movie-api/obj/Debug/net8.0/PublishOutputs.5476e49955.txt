@@ -63,5 +63,7 @@ D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\ru
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\movies-api.Data.dll
+D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\movies-api.Logic.dll
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\movies-api.Data.pdb
+D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\movies-api.Logic.pdb
 D:\Projects\movie-service-api\movie-api\movie-api\obj\Debug\net8.0\PubTmp\Out\movie-api.deps.json

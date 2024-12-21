@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\movies-api.Data\movies-api.Data.csproj" />
+    <ProjectReference Include="..\movies-api.Logic\movies-api.Logic.csproj" />
   </ItemGroup>
 
 </Project>

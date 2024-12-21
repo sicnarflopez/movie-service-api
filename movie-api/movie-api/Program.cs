@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using movie_api.Authentication;
 using movies_api.Data.Context;
+using movies_api.Logic.Interfaces;
+using movies_api.Logic.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<MovieDbContext>(options =>
@@ -16,8 +17,9 @@ builder.Services.AddDbContext<MovieDbContext>(options =>
     });
 });
 
-
 builder.Services.AddScoped<IMovieDbContext>(provider => provider.GetRequiredService<MovieDbContext>());
+builder.Services.AddScoped<DbContextInitializer>();
+builder.Services.AddScoped<IMovieService, MovieService>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -31,6 +33,19 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+using (var scope = app.Services.CreateScope())
+{
+    var initialiser = scope.ServiceProvider.GetRequiredService<DbContextInitializer>();
+
+    //Initialize database
+    await initialiser.InitialiseAsync();
+
+    //Seed database
+    await initialiser.SeedDefaultDataAsync();
+}
+
+app.UseMiddleware<ApiKeyAuthMiddleware>();
 
 app.UseHttpsRedirection();
 

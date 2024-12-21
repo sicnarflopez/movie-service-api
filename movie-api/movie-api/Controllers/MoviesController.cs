@@ -1,16 +1,26 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using movies_api.Logic.Interfaces;
 
 namespace movie_api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class MoviesController : ControllerBase
     {
-        [HttpGet]
-        public async Task<IActionResult> GetMovies(string title)
+        private readonly IMovieService _movieService;
+        private readonly string _apiKey;
+
+        public MoviesController(IMovieService movieService)
         {
-            return Ok();
+            _movieService = movieService;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetMovie(string? title)
+        {
+            var movies = await _movieService.GetMoviesAsync(title);
+            return Ok(movies);
         }
     }
 }
