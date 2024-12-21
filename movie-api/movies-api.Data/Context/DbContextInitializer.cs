@@ -42,13 +42,13 @@ namespace movies_api.Data.Context
             {
                 var movies = new List<Movie>
                 {
-                    new Movie { Title = "Inception", ReleaseYear = 2010, PosterUrl = "https://link/to/poster1.jpg" },
-                    new Movie { Title = "The Matrix", ReleaseYear = 1999, PosterUrl = "https://link/to/poster2.jpg" },
-                    new Movie { Title = "Interstellar", ReleaseYear = 2014, PosterUrl = "https://link/to/poster3.jpg" },
-                    new Movie { Title = "The Dark Knight", ReleaseYear = 2008, PosterUrl = "https://link/to/poster4.jpg" },
-                    new Movie { Title = "Pulp Fiction", ReleaseYear = 1994, PosterUrl = "https://link/to/poster5.jpg" },
-                    new Movie { Title = "The Shawshank Redemption", ReleaseYear = 1994, PosterUrl = "https://link/to/poster6.jpg" },
-                    new Movie { Title = "Forrest Gump", ReleaseYear = 1994, PosterUrl = "https://link/to/poster7.jpg" }
+                    new Movie { Title = "Inception", ReleaseYear = 2010, PosterUrl = "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg" },
+                    new Movie { Title = "The Matrix", ReleaseYear = 1999, PosterUrl = "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpgg" },
+                    new Movie { Title = "Interstellar", ReleaseYear = 2014, PosterUrl = "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg" },
+                    new Movie { Title = "The Dark Knight", ReleaseYear = 2008, PosterUrl = "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg" },
+                    new Movie { Title = "Pulp Fiction", ReleaseYear = 1994, PosterUrl = "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg" },
+                    new Movie { Title = "The Shawshank Redemption", ReleaseYear = 1994, PosterUrl = "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg" },
+                    new Movie { Title = "Forrest Gump", ReleaseYear = 1994, PosterUrl = "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg" }
                 };
 
                 await _context.Movies.AddRangeAsync(movies);

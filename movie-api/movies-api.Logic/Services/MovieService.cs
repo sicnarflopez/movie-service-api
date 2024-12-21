@@ -16,6 +16,7 @@ namespace movies_api.Logic.Services
         public async Task<List<Movie>> GetMoviesAsync(string? title)
         {
             return await _context.Movies.Where(m => m.Title.Contains(title))
+                                        .OrderBy(m => m.Title)
                                         .ToListAsync();
         }
     }
